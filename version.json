@@ -1,8 +1,15 @@
 {
   "app": "MiSemana",
   "version": "3.0.0",
-  "publishedAt": "2026-10-23T08:09:10.214Z",
-  "android": null,
+  "publishedAt": "2026-10-23T08:50:13.876Z",
+  "android": {
+    "url": "https://aithor22.github.io/misemana-descargas/MiSemana-3.0.0.apk",
+    "size": 6481785,
+    "sha256": "67291221cd9298e486b2041bdca54e9e1fdf712aa1749c0aba70591c2f40c77e",
+    "versionCode": 7,
+    "signerSha256": "b4021407db09dabbe8d6543a487262a9533b8ebc93e0c0b7851463e0cd6ab017",
+    "minAndroid": "8.0"
+  },
   "windows": {
     "url": "https://aithor22.github.io/misemana-descargas/MiSemana_3.0.0_x64-setup.exe",
     "size": 3156118,
